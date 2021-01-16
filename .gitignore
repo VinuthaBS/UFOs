@@ -130,3 +130,8 @@ dmypy.json
 
 # Handle DS_Store
 .DS_Store
+
+# Ignore the practice files 
+app_onlymodulework.js
+app_challenge_withlogs.js
+index_onlymodulework.html
